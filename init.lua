@@ -3,3 +3,5 @@ use 'wbthomason/packer.nvim'
 use 'navarasu/onedark.nvim'
 vim.cmd('colorscheme onedark')
 end)
+
+vim.opt.number = true
